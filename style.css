@@ -1,0 +1,19 @@
+/* input {
+    display: none;
+} */
+
+.box {
+    display: flex;
+}
+
+label {
+    display: flex;
+    align-items: center;
+}
+
+.span {
+    width: 15px;
+    height: 15px;
+    background-color: blue;
+    border-radius: 50px;
+}
